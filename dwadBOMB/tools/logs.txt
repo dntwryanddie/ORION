@@ -1,0 +1,343 @@
+DATE - 2022-09-26 22:54:58.560112
+Service - apteka.ru
+Status_code - 200
+ERROR:
+There is not
+
+
+DATE - 2022-09-26 22:54:59.021084
+Service - magnit
+Status_code - 200
+ERROR:
+There is not
+
+
+DATE - 2022-09-26 22:54:59.228085
+Service - telegram
+Status_code - 200
+ERROR:
+There is not
+
+
+DATE - 2022-09-26 22:54:59.625085
+Service - citi_link
+Status_code - 429
+ERROR:
+There is not
+
+
+DATE - 2022-09-26 22:55:00.229113
+Service - akbarsa
+Status_code - 200
+ERROR:
+There is not
+
+
+DATE - 2022-09-26 22:55:01.420115
+Service - yota
+Status_code - 200
+ERROR:
+There is not
+
+
+DATE - 2022-09-26 22:55:05.049083
+Service - b_apteka
+Status_code - 200
+ERROR:
+There is not
+
+
+DATE - 2022-09-26 22:55:05.440112
+Service - mir
+Status_code - 200
+ERROR:
+There is not
+
+
+DATE - 2022-09-26 22:55:05.859114
+Service - pochtabank
+Status_code - 200
+ERROR:
+There is not
+
+
+DATE - 2022-09-26 22:55:06.014112
+Service - mt_free
+Status_code - 400
+ERROR:
+There is not
+
+
+DATE - 2022-09-26 22:55:06.589114
+Service - megafon.tv
+Status_code - 429
+ERROR:
+There is not
+
+
+DATE - 2022-09-26 22:55:08.155113
+Service - moezdorovie
+Status_code - 200
+ERROR:
+There is not
+
+
+DATE - 2022-09-26 22:55:08.359112
+Service - totopizza
+Status_code - 200
+ERROR:
+There is not
+
+
+DATE - 2022-09-26 22:55:08.751088
+Service - zdesapteka
+Status_code - 200
+ERROR:
+There is not
+
+
+DATE - 2022-09-26 22:55:09.928116
+Service - stockmann
+Status_code - 200
+ERROR:
+There is not
+
+
+DATE - 2022-09-26 22:55:10.310114
+Service - SberUslugi
+Status_code - 200
+ERROR:
+There is not
+
+
+DATE - 2022-09-26 22:55:10.710112
+Service - victoria
+Status_code - 500
+ERROR:
+There is not
+
+
+DATE - 2022-09-26 22:55:11.104111
+Service - sunlight
+Status_code - 200
+ERROR:
+There is not
+
+
+DATE - 2022-09-26 22:55:11.398114
+Service - ok.ru
+Status_code - 200
+ERROR:
+There is not
+
+
+DATE - 2022-09-26 22:55:11.918086
+Service - citystar
+Status_code - 200
+ERROR:
+There is not
+
+
+DATE - 2022-09-26 22:55:15.801112
+Service - beerlogapizza
+Status_code - 200
+ERROR:
+There is not
+
+
+DATE - 2022-09-26 22:55:18.570111
+Service - pizzamia
+Status_code - 422
+ERROR:
+There is not
+
+
+DATE - 2022-09-26 22:55:18.781121
+Service - lentaru
+Status_code - 404
+ERROR:
+There is not
+
+
+DATE - 2022-09-26 22:55:19.103111
+Service - wildberries
+Status_code - 200
+ERROR:
+There is not
+
+
+DATE - 2022-09-26 23:05:00.828313
+Service - apteka.ru
+Status_code - 200
+ERROR:
+There is not
+
+
+DATE - 2022-09-26 23:05:01.302315
+Service - magnit
+Status_code - 200
+ERROR:
+There is not
+
+
+DATE - 2022-09-26 23:05:01.582285
+Service - telegram
+Status_code - 200
+ERROR:
+There is not
+
+
+DATE - 2022-09-26 23:05:01.993285
+Service - citi_link
+Status_code - 429
+ERROR:
+There is not
+
+
+DATE - 2022-09-26 23:05:02.791307
+Service - akbarsa
+Status_code - 200
+ERROR:
+There is not
+
+
+DATE - 2022-09-26 23:05:03.323285
+Service - yota
+Status_code - 401
+ERROR:
+There is not
+
+
+DATE - 2022-09-26 23:05:04.687290
+Service - b_apteka
+Status_code - 200
+ERROR:
+There is not
+
+
+DATE - 2022-09-26 23:05:05.118318
+Service - mir
+Status_code - 200
+ERROR:
+There is not
+
+
+DATE - 2022-09-26 23:05:05.479284
+Service - pochtabank
+Status_code - 200
+ERROR:
+There is not
+
+
+DATE - 2022-09-26 23:05:05.628284
+Service - mt_free
+Status_code - 400
+ERROR:
+There is not
+
+
+DATE - 2022-09-26 23:05:06.366312
+Service - megafon.tv
+Status_code - 200
+ERROR:
+There is not
+
+
+DATE - 2022-09-26 23:05:07.831285
+Service - moezdorovie
+Status_code - 200
+ERROR:
+There is not
+
+
+DATE - 2022-09-26 23:05:07.948313
+Service - totopizza
+Status_code - 200
+ERROR:
+There is not
+
+
+DATE - 2022-09-26 23:05:08.446323
+Service - zdesapteka
+Status_code - 200
+ERROR:
+There is not
+
+
+DATE - 2022-09-26 23:05:09.553315
+Service - stockmann
+Status_code - 200
+ERROR:
+There is not
+
+
+DATE - 2022-09-26 23:05:10.031314
+Service - SberUslugi
+Status_code - 200
+ERROR:
+There is not
+
+
+DATE - 2022-09-26 23:05:10.276287
+Service - victoria
+Status_code - 500
+ERROR:
+There is not
+
+
+DATE - 2022-09-26 23:05:10.626308
+Service - sunlight
+Status_code - 200
+ERROR:
+There is not
+
+
+DATE - 2022-09-26 23:05:11.049285
+Service - ok.ru
+Status_code - 200
+ERROR:
+There is not
+
+
+DATE - 2022-09-26 23:05:11.499310
+Service - citystar
+Status_code - 200
+ERROR:
+There is not
+
+
+DATE - 2022-09-26 23:05:12.176284
+Service - beerlogapizza
+Status_code - 200
+ERROR:
+There is not
+
+
+DATE - 2022-09-26 23:05:12.570312
+Service - pizzamia
+Status_code - 422
+ERROR:
+There is not
+
+
+DATE - 2022-09-26 23:05:12.809317
+Service - lentaru
+Status_code - 404
+ERROR:
+There is not
+
+
+DATE - 2022-09-26 23:05:12.890313
+Service - wildberries
+Status_code - 200
+ERROR:
+There is not
+
+
+DATE - 2022-09-26 23:05:46.517311
+Service - sunlight
+Status_code - 200
+ERROR:
+There is not
+
+
